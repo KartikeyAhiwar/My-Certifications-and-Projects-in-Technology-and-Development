@@ -1,7 +1,4 @@
-# My-Certifications-and-Projects-in-Technology-and-Development
- This repository contains an overview of the skills, certifications, and projects I’ve completed to enhance my knowledge in AI, Deep Learning, Android Development, NLP, Python libraries, game development, and I  won **Smart India Hackathon (SIH)**, where I applied creative problem-solving and technical skills to develop innovative solutions. 
-
-# # My Certifications and Projects in Technology and Development
+## 👉🏻 My Certifications and Projects in Technology and Development
 
 Welcome to my GitHub! This repository contains an overview of the skills, certifications, and projects I’ve completed to enhance my knowledge in AI, Deep Learning, Android Development, NLP, Python libraries, game development, and more. Notably, I have earned a certification in **Smart India Hackathon (SIH)**, where I applied creative problem-solving and technical skills to develop innovative solutions. Below is a brief overview of each area I have studied and practiced, along with the tools and libraries I've worked with.
 
